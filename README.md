@@ -22,4 +22,6 @@ You can mainly check a majority of what i've built in GitHub itself, but sometim
 projects can be a bit more widespread on different sites such as [Replit](https://repl.it) and
 [Twitter](https://twitter.com/TheRhet0rical_).
 
+If you wish, you can reach me by @tting me on **twitter**, adding me on discord at *Rhet0rical#2001* if you wanna add me there. You can also email me at rhet0rical@studio-eitmos.com.
+
 ### **Thanks For Checking Me Out!**
