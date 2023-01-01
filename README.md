@@ -16,7 +16,6 @@ what i do somewhat professional :disguised_face:.
 I create mostly software using coding languages such as...
 * **Python** :snake:
 * **Javascript** :coffee:
-* **HTML & CSS** :file_folder:
 
 You can mainly check a majority of what i've built in GitHub itself, but sometimes the
 projects can be a bit more widespread on different sites such as [Replit](https://repl.it) and
