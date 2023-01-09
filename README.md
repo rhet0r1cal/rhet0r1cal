@@ -18,3 +18,5 @@ Down here, you'll find a list of some of the software i've made 💻.
 > Mocha is a text based operating system built with the Python programming language. Mocha was created because i felt like it, even though it serves almost no utilitarian use, besides the fact that it can be used to sort some Python applications you may have lying around.
 
 > You Can Find **Mocha** [Here](https://github.com/TheRhet0rical/mocha-python-os).
+
+## Thanks For Checking Me Out!
