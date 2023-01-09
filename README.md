@@ -19,4 +19,4 @@ Down here, you'll find a list of some of the software i've made 💻.
 
 > You Can Find **Mocha** [Here](https://github.com/TheRhet0rical/mocha-python-os).
 
-## Thanks For Checking Me Out.
+## Thanks For Checking Me Out 😄!
