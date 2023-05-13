@@ -1,24 +1,34 @@
-# **Welcome To My GitHub Page!** :wave:
-Welcome to my GitHub page! GitHub is usually where I post a majority of my work, so feel free to take a peek at any of the stuff you may find here. If you have any questions or suggestions, please don't hesitate to [reach out](#contact--contributing), i'm usually available.
+# Hello! I'm *Rhet0rical*! 👋
+Welcome to my GitHub page! This is where I post all of my open sourced projects, so feel free to take a peek at anything I have going on around here. If you have any questions, feel free to reach out.
 
-## **About Me**
-I am a *work in progress* software developer based in michigan, currently fluent in languages such as...
-* **Javascript & HTML** :coffee:, for frontend development.
-* **Python** :snake:, for backend development.
+# About Me 😄
+I'm a WIP frontend web and software developer, based in Michigan USA. I'm fluent in languages and frameworks such as...
+* Javascript For Web Development ☕
+* HTML & CSS, Also For Web Development 🌐
+* Python For Backend Services *(and on accasion some desktop stuff too)* 🐍
 
-## **Projects**
-Here are some of the projects you'll find on my page, besides the one's that are private of course *(sitting at 13 right now)*:
+# Projects 🛠️
+Here i'll go over some of my most favored projects i've ever created. Some of these include...
 
-### **Project 1**: [mocha-python](https://github.com/TheRhet0rical/mocha-python) :snake: *(archived)*
-Mocha is a text based operating system built with the Python programming language. Mocha was created because i felt like it, even though it serves almost no utilitarian use, besides the fact that it can be used to sort some Python applications you may have lying around.
+> ### Project #1: *My Website* 🌐
+> A work in progress portfolio to show off all the stuff I made, without using a markdown file. \
+> You can visit it here: **https://rhet0rical.dev**
 
-### **Project 2**: [install-script](https://github.com/TheRhet0rical/install-script) :scroll: *(archived)*
-A quick Windows' batch script I put together so i could install various programs at once without going to each individual website.
+> ### Project #2: *Installr* ⬇️
+> Installr is a easy multimedia install tool created for every time you don't feel like installing all of your applications over and over again. \
+> You can visit the repository [Here](https://github.com/TheRhet0rical/installr), and the website [Here](https://rhet0rical.dev/installr).
 
-### **Project 3**: [setup-script](https://github.com/TheRhet0rical/setup-script) :newspaper: *(active)*
-A project based on **install-script**, it's a Windows batch file script I created so I can install my programs I use, and set up my computer in one click.
+> ### Project #3: *Login Template* 🔒
+> And to flex off some of my CSS skills, I made this as a bit of a practice and a showcase. Other then that, it's literally just a login system template. Doesn't do much of anything. \
+> You can visit the repository [Here](https://github.com/TheRhet0rical/login-template), and the website [Here](https://rhet0rical.dev/login-template/).
 
-## Contact & Contributing
-If you'd like to contribute to any of my projects, feel free to submit a pull request. I welcome any suggestions, bug reports, or improvements. If you have any questions or just want to say hi, you can reach me at rhet0rical@studio-eitmos.com or on Twitter [@TheRhet0rical_](https://twitter.com/TheRhet0rical_).
+> ### Project #4: *Quotr* 💪
+> Quotr is a simple quote generator using the Quotable API. I made it to test out and learn a little bit more about the naitive fetch API, and since I had an hour to spare. \
+> You can visit the repository [Here](https://github.com/TheRhet0rical/quotr), and the website [Here](https://rhet0rical.dev/quotr/).
 
-# **Thanks For Checking Out My Work!** :smile:
+# Contact & Contribution 📫
+You can always contact me through email using **rhet0rical@studio-eitmos.com**. I usually respond in a short amount of time *(depending what time it is, EST being my time zone)*. And if that isn't your style, you can always
+contact me throught my Twitter too! Send me a DM at [@TheRhet0rical](https://twitter.com/TheRhet0rical_), and i'll get back to you there instead.
+
+Although a majority of my projects are hosted on here, i'm not always avidly working on them. But still feel free to add any improvements to my projects, or fork it and turn it into something cooler. I always love seeing
+people's ideas and creative *masterpeices*. But usually for smaller projects, i'll have push/post requests turned off, but issues will still always be there.
