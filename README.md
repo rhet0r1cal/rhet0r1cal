@@ -18,11 +18,7 @@ Here i'll go over some of my most favored projects i've ever created. Some of th
 > Installr is a easy multimedia install tool created for every time you don't feel like installing all of your applications over and over again. \
 > You can visit the repository [Here](https://github.com/TheRhet0rical/installr), and the website [Here](https://rhet0rical.dev/installr).
 
-> ### Project #3: *Login Template* 🔒
-> And to flex off some of my CSS skills, I made this as a bit of a practice and a showcase. Other then that, it's literally just a login system template. Doesn't do much of anything. \
-> You can visit the repository [Here](https://github.com/TheRhet0rical/login-template), and the website [Here](https://rhet0rical.dev/login-template/).
-
-> ### Project #4: *Quotr* 💪
+> ### Project #3: *Quotr* 💪
 > Quotr is a simple quote generator using the Quotable API. I made it to test out and learn a little bit more about the naitive fetch API, and since I had an hour to spare. \
 > You can visit the repository [Here](https://github.com/TheRhet0rical/quotr), and the website [Here](https://rhet0rical.dev/quotr/).
 
