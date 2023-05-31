@@ -18,9 +18,8 @@ Here i'll go over some of my most favored projects i've ever created. Some of th
 > Installr is a easy multimedia install tool created for every time you don't feel like installing all of your applications over and over again. \
 > You can visit the repository [Here](https://github.com/TheRhet0rical/installr), and the website [Here](https://rhet0rical.dev/installr).
 
-> ### Project #3: *Quotr* 💪
-> Quotr is a simple quote generator using the Quotable API. I made it to test out and learn a little bit more about the naitive fetch API, and since I had an hour to spare. \
-> You can visit the repository [Here](https://github.com/TheRhet0rical/quotr), and the website [Here](https://rhet0rical.dev/quotr/).
+> ### Project #3: *Coming Soon* 🚀
+> *You can't see it just yet, im still making it...*
 
 # Contact & Contribution 📫
 You can always contact me through email using **rhet0rical@studio-eitmos.com**. I usually respond in a short amount of time *(depending what time it is, EST being my time zone)*. And if that isn't your style, you can always
