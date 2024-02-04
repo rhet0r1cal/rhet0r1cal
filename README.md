@@ -1,6 +1,6 @@
 <img src = 'title.png'>
 
-> 🌐 ~ https://rhet0rical.dev
+> **🌐 ~ https://rhet0rical.dev**
 
 > I'm **Keegan**, but you know me as **Rhet0r1cal_**. I'm **16** years of age, and have sold my soul to the world of computers never to return. I've been using computers for about **7 years**, and have been coding stuff since **early 2017**. My main skill is **Web Development**, and i've been focusing on that since early 2020.
 
