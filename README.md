@@ -9,5 +9,6 @@ Starting on platforms such as Scratch, I made around 50+ things, before simply d
 ---
 
 ![Rhet0rical's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhet0r1cal&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhet0r1cal&theme=transparent&hide_border=true&layout=compact)
 
 ---
