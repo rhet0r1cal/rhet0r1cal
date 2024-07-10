@@ -1,3 +1,7 @@
-Hello!
+<img src = './banner.png' width = 400>
 
-I'm currently going under a profile/repository makeover to pursue a fresh start to my online presence. I'll still be located at this profile, but it might take some time to get everything in functioning order. If push comes to shove, you can see my work at https://rhet0rical.dev
+I'm a 17 y/o software developer, or another one of those unfortunate souls who've sold their soul to the internet for more than 6 years.
+
+I'm experienced in languages such as HTML, JavaScript, Typescript, and Python. Along with that, I also have experience with tools such as React, Next.js, and data storage and server software like Supabase, Cloudflare, and Firebase.
+
+I look forward to working with you!
