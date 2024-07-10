@@ -1,4 +1,4 @@
-<img src = './banner.png' width = 400>
+<img src = './Banner.png' width = 400>
 
 I'm a 17 y/o software developer, or another one of those unfortunate souls who've sold their soul to the internet for more than 6 years.
 
